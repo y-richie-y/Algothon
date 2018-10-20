@@ -28,3 +28,5 @@ W=[[0,10,math.inf,math.inf,math.inf,8],
 
 print(bf(W))
 
+print("gf")
+
